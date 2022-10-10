@@ -1,8 +1,8 @@
 # divergent lynx
 
-- #postinternet (#postinternet)
+- [postinternet](#postinternet)
 
-##postinternet
+#postinternet
 
 “postinternet project” is a soft attempt at brain emulation or mind uploading. 
  
